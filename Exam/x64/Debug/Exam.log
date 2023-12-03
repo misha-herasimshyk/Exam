@@ -1,0 +1,3 @@
+﻿  Exam.cpp
+H:\Cago\Exam\Exam\Exam.cpp(36,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Exam.vcxproj -> H:\Cago\Exam\x64\Debug\Exam.exe
